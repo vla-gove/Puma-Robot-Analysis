@@ -1,6 +1,6 @@
 # Puma-Robot-Analysis
 
-Analysis of a Puma 560 robot manipulator in Matlab
+Analysis of a Puma 560 robot manipulator in Matlab using RVC Toolbox
 
 Accurate Puma 560 Robot is defined in the robot.m function, which is used for other included scripts.
 Scripts include analysis of forward and inverse kinematics of the manipulator, plotting function of some notable positions, joint analysis including trajectory, velocity and acceleration, calculation of dynamic parameters (gravity, inertia, and coriolis forces), and joing analysis of a robot in freefall.
