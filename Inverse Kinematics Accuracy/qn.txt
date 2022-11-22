@@ -1,0 +1,13 @@
+inverse kinematics of a position Fn given with qn=[0 pi/4 pi 0 pi/4  0]; is returned as:
+
+In =
+
+   -0.0001   -0.8335    0.0939    0.0001   -0.8312   -0.0001
+
+
+position Fn achieved with direct kinematics using qn is:
+
+Fn = [   0         0         1    0.5963
+         0         1         0   -0.1501
+        -1         0         0  -0.01435
+         0         0         0         1 ]; 

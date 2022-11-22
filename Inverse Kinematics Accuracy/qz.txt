@@ -1,0 +1,15 @@
+inverse kinematics of a position Fz given with qz = [0 0 0 0 0 0]; is returned as:
+
+Iz =
+
+   1.0e-03 *
+
+    0.1106   -0.0018    0.0402   -0.0008   -0.0384   -0.1098
+
+
+position Fz achieved with direct kinematics using qz is:
+
+Fz = [   1         0         0    0.4521
+         0         1         0     -0.15
+         0         0         1    0.4318
+         0         0         0         1 ];

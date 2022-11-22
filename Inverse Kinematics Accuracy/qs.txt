@@ -1,0 +1,13 @@
+inverse kinematics of a position Fs given with qs = [0 0 -pi/2 0 0 0]; is returned as:
+
+Is =
+
+   -0.0001   -0.0466   -1.4777    0.0012   -0.0465   -0.0012
+
+
+position Fs achieved with direct kinematics using qs is:
+
+Fs = [   0         0         1    0.8636
+         0         1         0   -0.1501
+        -1         0         0   -0.0203
+         0         0         0         1 ];

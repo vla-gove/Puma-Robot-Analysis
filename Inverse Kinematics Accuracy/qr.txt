@@ -1,0 +1,13 @@
+ inverse kinematics of a position Fr given with qr=[0 pi/4 pi 0 pi/4  0]; is returned as:
+
+Ir =
+
+    0.0025    1.5238   -1.4760    0.0000   -0.0478   -0.0025
+
+
+position Fr achieved with direct kinematics using qr is:
+
+Fr = [   1         0         0    0.0203
+         0         1         0     -0.15
+         0         0         1    0.8636
+         0         0         0         1 ];
