@@ -3,7 +3,7 @@
 Analysis of a Puma 560 robot manipulator in Matlab using RVC Toolbox
 
 Accurate Puma 560 Robot (6 degrees of freedom, all revolute joints) is defined in the pumarobot.m function, which is used for other included scripts.
-Scripts include analysis of forward and inverse kinematics of the manipulator; plotting function of some notable positions; joint analysis including trajectory, velocity and acceleration; symbolic calculation of dynamic parameters (gravity, inertia, and coriolis forces); and joint analysis of a robot in freefall.
+Scripts include analysis of forward and inverse kinematics of the manipulator, plotting function of some notable positions, joint analysis including trajectory, velocity and acceleration, symbolic calculation of dynamic parameters (gravity, inertia, and coriolis forces), and joint analysis of a robot in freefall.
 
 Also included is the accuracy of the inverse kinematics function, figures for joint parameters, and some robot positions.
 
