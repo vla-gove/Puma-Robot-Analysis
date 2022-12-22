@@ -9,8 +9,8 @@ Also included is the accuracy of the inverse kinematics function, figures for jo
 
 ![PumaPlot](https://user-images.githubusercontent.com/107414426/203182835-ee5e212a-d29f-44e7-89c9-f56734d965cd.jpg)
 
-Puma560 in neutral position (qz=[0 0 0 0 0 0])
+Puma 560 in neutral position (qz=[0 0 0 0 0 0])
 
 ![Joint Acceleration](https://user-images.githubusercontent.com/107414426/203182870-c91d2ddd-46e7-4efc-bc8b-9148439773c4.jpg)
 
-Puma560 joint acceleration graph
+Puma 560 joint acceleration graph
